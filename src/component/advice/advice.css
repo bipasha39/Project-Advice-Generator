@@ -1,0 +1,16 @@
+.Card{
+    background: honeydew;
+    margin: 10em 25em;
+    padding: 5rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+   justify-content: center;
+}
+.advice-card{
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    margin:auto 4px;
+   
+    
+}
